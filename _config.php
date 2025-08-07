@@ -4,7 +4,7 @@ $websiteTitle = "AnimeZia"; // Your Website Name
 $websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
 $websiteLogo = "https://cdnzia.pages.dev/images/logo.webp"; // Your Logo
 $websiteLogo2 = "https://cdnzia.pages.dev/images/logo2.webp";
-$contactEmail = ""; // Contact Email, put your own.
+$contactEmail = "technicalinventor636@gmail.com"; // Contact Email, put your own.
 
 
 //Donate 
@@ -21,12 +21,12 @@ $twitter = "#"; // Twitter
 
 $disqus = "https://watchzia.disqus.com"; // Disqus make your own
 
-$cdn = "https://cdnzia.pages.dev"; // cdn repo https://github.com/warlordsnet/cdnzia
+$cdn = "https://cdnzia-7qli.onrender.com"; // cdn repo https://github.com/warlordsnet/cdnzia
 
 // API URL
-$api ="https://api.animezia.com"; // api repo https://github.com/warlordsnet/zia-api - Replace with your actual API URL
+$api ="https://api-zia.onrender.com"; // api repo https://github.com/warlordsnet/zia-api - Replace with your actual API URL
 
-$imgk = ""; // your imagekit id, make your own. instructions in readme.
+$imgk = "i2a7tjjpy"; // your imagekit id, make your own. instructions in readme.
 
 $banner = "https://cdnzia.pages.dev/images/banner.webp";  //Banner use your own
 ?>
