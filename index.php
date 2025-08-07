@@ -8,6 +8,7 @@ require('./_config.php');
     <title>AnimeZia - Official AnimeZia Watch High Quality Anime Online Without Ads</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="robots" content="index,follow" />
+    <link rel="canonical" href="https://yourdomain.com/<?php echo basename($_SERVER['PHP_SELF']); ?>" />
     <meta http-equiv="content-language" content="en" />
      <meta name="title" content="AnimeZia - Official AnimeZia #1 Watch High Quality Anime Online Without Ads" />
     <meta name="description" content="AnimeZia - Official AnimeZia #1 Watch High Quality Anime Online Without Ads. You can watch anime online free in HD without Ads. Best place for free find and one-click anime." />
