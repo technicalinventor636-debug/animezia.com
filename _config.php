@@ -2,8 +2,8 @@
 
 $websiteTitle = "AnimeZia"; // Your Website Name
 $websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
-$websiteLogo = "https://cdnzia.pages.dev/images/logo.webp"; // Your Logo
-$websiteLogo2 = "https://cdnzia.pages.dev/images/logo2.webp";
+$websiteLogo = "https://cdnzia-7qli.onrender.com/images/logo.webp"; // Your Logo
+$websiteLogo2 = "https://cdnzia-7qli.onrender.com/images/logo2.webp";
 $contactEmail = "technicalinventor636@gmail.com"; // Contact Email, put your own.
 
 
@@ -28,5 +28,5 @@ $api ="https://api-zia.onrender.com"; // api repo https://github.com/warlordsnet
 
 $imgk = "i2a7tjjpy"; // your imagekit id, make your own. instructions in readme.
 
-$banner = "https://cdnzia.pages.dev/images/banner.webp";  //Banner use your own
+$banner = "https://cdnzia-7qli.onrender.com/images/banner.webp";  //Banner use your own
 ?>
